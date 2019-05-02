@@ -1,7 +1,7 @@
 ##Présentation et Précaution
 
 Le code ci-dessus permet de faire le décdage d'Huffman. Afin de le lancer il faut 2 fichiers : le dictionnaire aini que le fichier à décoder.
-Le code ne permet pas de traiter les retour chariots. Il est faut donc remplacer le retour chariot par "\\" si vous voulez qu'il soit traiter.
+Le code ne permet pas de traiter les retour chariots. Il est faut donc remplacer le retour chariot par "\\\" si vous voulez qu'il soit traiter.
 
 ##Structure du code : 
 
